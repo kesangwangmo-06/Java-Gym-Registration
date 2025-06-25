@@ -1,0 +1,73 @@
+TYPE: Premium
+ID: 2
+Name: ew
+Location: q3r
+Phone: werqwr
+Email: qwr
+Start Date: 1 Jan 1990
+Trainer: Social Media
+Paid Amount: 0.0
+Discount: 0.0
+Loyalty Points: 0.0
+Full Payment: false
+Active: true
+
+TYPE: Regular
+ID: 1
+Name: dasf
+Location: sdf
+Phone: sdf
+Email: sdf
+Start Date: 1 Jan 1990
+Plan: basic
+Price: 6500.0
+Attendance: 0
+Loyalty Points: 0.0
+Eligible for Upgrade: false
+Active: true
+Removal Reason: 
+
+TYPE: Regular
+ID: 1
+Name: 
+Location: 
+Phone: 
+Email: 
+Start Date: 1 Jan 1990
+Plan: basic
+Price: 6500.0
+Attendance: 0
+Loyalty Points: 0.0
+Eligible for Upgrade: false
+Active: true
+Removal Reason: 
+
+TYPE: Regular
+ID: 1
+Name: kesang
+Location: boudha
+Phone: 9804128329
+Email: kesang
+Start Date: 1 Jan 1990
+Plan: basic
+Price: 6500.0
+Attendance: 0
+Loyalty Points: 0.0
+Eligible for Upgrade: false
+Active: true
+Removal Reason: 
+
+TYPE: Premium
+ID: 1
+Name: as
+Location: asd
+Phone: asd
+Email: asd
+Start Date: 1 Jan 1990
+Trainer: asd
+Paid Amount: 0.0
+Discount: 0.0
+Loyalty Points: 0.0
+Full Payment: false
+Active: true
+
